@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ryanjames-seo-content.netlify.app/sitemap.xml
